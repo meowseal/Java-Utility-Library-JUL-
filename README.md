@@ -3,7 +3,6 @@
 
 The Java Utility Library is a simple library that works without any other preinstallations required.
 
-## Modules
 ## Library Refrence
 
 
