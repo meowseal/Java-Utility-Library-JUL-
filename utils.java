@@ -5,11 +5,11 @@ public class utils {
 
     Scanner in = new Scanner(System.in);   
     
-    
+    // Printing without a new line
     private static void print(Object text) {
         System.out.print(text);
     }
-
+    // Printing with a new line
     private static void println(Object text) {
         System.out.println(text);
     }
@@ -17,11 +17,5 @@ public class utils {
 
 
 
-    public static void main(String[] args) {
-        print("Funny meter: ");
-        print(0);
-        println("%");
-        print("Hello World");
-    
-    }
+
 }
