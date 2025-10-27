@@ -2,20 +2,21 @@ import java.util.Scanner;
 
 public class utils {
     
-
-    Scanner in = new Scanner(System.in);   
+    // Adds input to the console
+    Scanner input = new Scanner(System.in);   
     
-    // Printing without a new line
+    // Prints without a new line
     private static void print(Object text) {
         System.out.print(text);
     }
-    // Printing with a new line
+    // Prints with new line
     private static void println(Object text) {
         System.out.println(text);
     }
-
-
-
+    // Gets length of text
+    private static int len(String text) {
+        return text.length();
+    }    
 
 
 }
