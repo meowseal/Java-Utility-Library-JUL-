@@ -1,7 +1,7 @@
 
 #  Java Utility Library (JUL)
 
-The Java Utility Library is a simple library that works without any other preinstallations required.
+The Java Utility Library is a simple library that works without any other preinstallations required. The Library as of now contains basic functions to make writing easier, with syntax similar to Python & JavaScript.
 
 ## Library Refrence
 
