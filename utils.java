@@ -98,7 +98,7 @@ public class utils {
     // Convert to Degrees
     public static double rad(double Input) {
         return Math.toRadians(Input);
-        } 
+         
 
     }
 }
