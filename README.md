@@ -19,8 +19,8 @@ This allows you to directly call methods from the library without having to call
 
 | Function | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `print()` | `any` | Prints a string without a new line 
-| `println()` | `any` | Prints a string like a new line |
+| `print()` | `any` | Prints any without a new line 
+| `println()` | `any` | Prints any with a new line |
 | `len(a)` | `string` | Gets the string length |
 | `abs(a)` | `double` | returns the absolute of the double  |
 | `sqrt(a)` | `double` | returns the square root of the double |
