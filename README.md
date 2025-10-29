@@ -37,3 +37,8 @@ This allows you to directly call methods from the library without having to call
 | `deg(a)` | `double` | returns radians to degrees |
 | `rad(a)` | `double` | returns degrees to rad |
 
+
+## Credits
+Made by MeowSeal - https://github.com/meowseal    
+Java Documentation - https://docs.oracle.com/javase/7/docs  
+
