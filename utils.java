@@ -103,11 +103,5 @@ public class utils {
     }
 
 
-    public class documentation {
-        public static String string = "Text";
-
-
-
-}
 }
 
