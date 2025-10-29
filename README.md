@@ -33,7 +33,7 @@ This allows you to directly call methods from the library without having to call
 | `asin(a)` | `double` | returns the arcsine of a double (in radians) |
 | `acos(a)` | `double` | returns the arccosine of a double (in radians) |
 | `atan(a)` | `double` | returns the arctangent of a double (in radians) |
-| `atan2(a)` | `double` | returns the atan2 of a double (in radians) |
+| `atan2(a,b)` | `double` | returns the atan2 of a double (in radians) |
 | `deg(a)` | `double` | returns radians to degrees |
 | `rad(a)` | `double` | returns degrees to rad |
 
