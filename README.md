@@ -14,7 +14,7 @@ public class Main extends utils {
 ```
 This allows you to directly call methods from the library without having to calling the library beforehand.
 
-## Library Refrence
+# Library Refrence
 
 
 | Function | Type     | Description                |
@@ -38,7 +38,14 @@ This allows you to directly call methods from the library without having to call
 | `rad(a)` | `double` | returns degrees to rad |
 
 
-## Credits
+# Credits
 Made by MeowSeal - https://github.com/meowseal    
 Java Documentation - https://docs.oracle.com/javase/7/docs  
 
+ 
+
+## Contributers
+This section is for people who contribute to this repository and helped with the creation of the library.
+<p align="center">
+  <img src="https://contrib.rocks/image?repo=meowseal/Java-Utility-Library-JUL-" alt="Contributors" />
+</p>
