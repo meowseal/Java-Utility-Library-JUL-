@@ -2,7 +2,7 @@
 #  Java Utility Library (JUL)
 
 The Java Utility Library is a simple library that works without any other preinstallations required. The Library as of now contains basic functions to make writing easier, with syntax similar to Python & JavaScript.
-## How to use
+## How to use the utilities
 When you create a new class in another file, you should extend the class with the library name as seen below.
 ```java
 public class Main extends utils {
@@ -14,8 +14,18 @@ public class Main extends utils {
 ```
 This allows you to directly call methods from the library without having to calling the library beforehand.
 
-# Library Refrence
+## How to use custom data types
+Theres some custom data types I have added including vector3 which you can use through
+```java
+public class main {
+    public static void main(String[] args) {
+        vector3 data = new vector3(3,5,8);
+        System.out.println(data.x());
+    }
+}
+```
 
+# Library Refrence for Utilities
 
 | Function | Type     | Description                |
 | :-------- | :------- | :------------------------- |
