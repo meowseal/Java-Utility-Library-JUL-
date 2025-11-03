@@ -15,7 +15,7 @@ public class Main extends utils {
 This allows you to directly call methods from the library without having to calling the library beforehand.
 
 ## How to use custom data types
-Theres some custom data types I have added including vector3 which you can use through
+Theres some custom data types I have added including vector3 which you can use through objects.
 ```java
 public class main {
     public static void main(String[] args) {
@@ -24,8 +24,9 @@ public class main {
     }
 }
 ```
-
-# Library Refrence for Utilities
+# Library Refrences
+Library refrences for using all of the utility library without having to look at the source code.
+## Library Refrence for Utilities
 
 | Function | Type     | Description                |
 | :-------- | :------- | :------------------------- |
