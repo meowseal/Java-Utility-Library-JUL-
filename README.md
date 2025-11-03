@@ -26,7 +26,7 @@ public class main {
 ```
 # Library Refrences
 Library refrences for using all of the utility library without having to look at the source code.
-## Library Refrence for Utilities
+## utils refrence
 
 | Function | Type     | Description                |
 | :-------- | :------- | :------------------------- |
@@ -48,6 +48,12 @@ Library refrences for using all of the utility library without having to look at
 | `deg(a)` | `double` | returns radians to degrees |
 | `rad(a)` | `double` | returns degrees to rad |
 
+## vector3 refrence
+| Function | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `vector3.x()` | `double` | returns the first number in the vector3 | 
+| `vector3.y()` | `double` | returns the second number in the vector3 | 
+| `vector3.z()` | `double` | returns the third number in the vector3 | 
 
 # Credits
 Made by MeowSeal - https://github.com/meowseal    
