@@ -1,30 +1,22 @@
 public class vector3 
 {
     // initialize data & types
-    private double a,b,c;
+    public double x,y,z;
 
-    // set values and attributes
-    public vector3(double x, double y, double z)
+    // Set values and attributes
+    public vector3(double a, double b, double c)
     {
-        a = (double)x;        
-        b = (double)y;
-        c = (double)z;
+        x = a;        
+        y = b;
+        z = c;
     }
-    // return x
-    public double x()
-    { 
-        return a;
-    }
-    // return y
-    public double y()
+
+    // return modified vector3 as int
+    public vector3 toInt()
     {
-        return b;
+        vector3 intVector = new vector3((int)x,(int)y,(int)z);
+        return intVector;
     }
-    // return z
-    public double z()
-    {
-        return c;
-    }
-  
-    // More methods to be added
+
+
 }
