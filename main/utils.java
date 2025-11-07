@@ -102,6 +102,7 @@ public class utils {
 
     }
 
+    println("Utility Library Loaded");
 
 }
 
